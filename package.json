@@ -1,0 +1,23 @@
+{
+  "name": "@xiumu/event-emiter",
+  "version": "1.0.0",
+  "description": "event-emiter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiumubai/event-emiter.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiumubai/event-emiter/issues"
+  },
+  "homepage": "https://github.com/xiumubai/event-emiter#readme",
+  "files": [
+    "index.js",
+    "lib"
+  ]
+}
